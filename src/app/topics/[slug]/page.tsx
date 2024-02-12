@@ -2,7 +2,7 @@ import React from 'react'
 
 const TopicShowPage = () => {
   return (
-    <div>TopicShowPage</div>
+    <div>Topic Show Page</div>
   )
 }
 
